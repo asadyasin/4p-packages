@@ -1,5 +1,5 @@
 {
-  "name": "vite_react_shadcn_ts",
+  "name": "4p-packages",
   "homepage": "https://asadyasin.github.io/4p-packages/",
   "private": true,
   "version": "0.0.0",
@@ -83,5 +83,16 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.1"
+  },
+  "description": "## Project info",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadyasin/4p-packages.git"
+  },
+  "author": "asadyasin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asadyasin/4p-packages/issues"
   }
 }
