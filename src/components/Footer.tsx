@@ -59,9 +59,9 @@ const Footer = () => {
           <div>
             <h4 className="font-bold mb-4 text-lg">Contact Info</h4>
             <address className="not-italic text-gray-400">
-              <p className="mb-2">123 Print Avenue,</p>
-              <p className="mb-2">Design District, NY 10001</p>
-              <p className="mb-2">Phone: +1 (555) 123-4567</p>
+              <p className="mb-2">Habib shoping centre,</p>
+              <p className="mb-2">Multan Rd, Hanjarwal, Lahore, Pakistan</p>
+              <p className="mb-2">Phone: +92 (321) 940-9842</p>
               <p className="mb-2">Email: info@4ppackages.com</p>
             </address>
           </div>

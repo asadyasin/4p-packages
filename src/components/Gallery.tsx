@@ -8,37 +8,37 @@ const galleryItems = [
     id: 1,
     title: "Corporate Brochure Design",
     category: "Digital Design",
-    image: "https://images.unsplash.com/photo-1586769852836-bc069f19e1be?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    image: "https://5.imimg.com/data5/SELLER/Default/2023/8/338481398/QK/FI/BG/12733862/brochure-1-1000x1000.jpg"
   },
   {
     id: 2,
     title: "Premium Business Cards",
     category: "Stationery",
-    image: "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    image: "https://www.creativefabrica.com/wp-content/uploads/2021/06/02/Stationery-Design-Template-Graphics-12812277-1-1-580x387.jpg?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
   },
   {
     id: 3,
     title: "Product Packaging Design",
     category: "Packaging",
-    image: "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    image: "https://kinmasindustries.com/wp-content/uploads/2024/05/3-01-1024x583.png?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
   },
   {
     id: 4,
     title: "Magazine Layout Design",
     category: "Booklets",
-    image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    image: "https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/1631/posts/37387/image-upload/BookletDesign040.jpg?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=100"
   },
   {
     id: 5,
     title: "Large Format Banners",
     category: "Flex Printing",
-    image: "https://images.unsplash.com/photo-1618004912476-29818d81ae2e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    image: "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/coca-cola-design-template-1b5a32042f35c5756ebb79ff5f8dbf69_screen.jpg?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
   },
   {
     id: 6,
     title: "Custom Product Labels",
     category: "Packaging",
-    image: "https://images.unsplash.com/photo-1576566588028-4147f3842f27?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    image: "https://www.cartonservice.com/wp-content/uploads/2016/12/Carton-Service-Food-Variety-2016.jpg?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
   }
 ];
 

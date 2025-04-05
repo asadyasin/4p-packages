@@ -61,7 +61,7 @@ const Hero = () => {
   return (
     <section id="home" className="h-screen max-h-[1080px] flex items-center bg-gradient-to-b from-white to-gray-50 pt-16">
       <div className="container-custom">
-        <div className="flex flex-col md:flex-row items-center">
+        <div className="flex flex-col md:flex-row gap-x-12 items-center">
           <div className="md:w-1/2 md:pr-12 mb-8 md:mb-0">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
               <span className="text-brand-darkBlue">Transform Your Vision</span>
@@ -98,7 +98,7 @@ const Hero = () => {
                   <CarouselItem>
                     <div className="rounded-lg overflow-hidden shadow-xl transform transition-transform hover:scale-[1.02]">
                       <img 
-                        src="https://images.unsplash.com/photo-1611244419377-b0a760c19719?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" 
+                        src="https://plus.unsplash.com/premium_photo-1661382011487-cd3d6b1d9dff?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" 
                         alt="Professional Printing Services"
                         className="w-full h-auto rounded-lg"
                       />
@@ -109,7 +109,7 @@ const Hero = () => {
                   <CarouselItem>
                     <div className="rounded-lg overflow-hidden shadow-xl transform transition-transform hover:scale-[1.02]">
                       <img 
-                        src="https://images.unsplash.com/photo-1588412079929-790b9f593d8e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" 
+                        src="https://images.unsplash.com/photo-1614036634955-ae5e90f9b9eb?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" 
                         alt="Digital Design Services"
                         className="w-full h-auto rounded-lg"
                       />
@@ -120,7 +120,7 @@ const Hero = () => {
                   <CarouselItem>
                     <div className="rounded-lg overflow-hidden shadow-xl transform transition-transform hover:scale-[1.02]">
                       <img 
-                        src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" 
+                        src="https://images.unsplash.com/photo-1693031630369-bd429a57f115?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" 
                         alt="Print Media Solutions"
                         className="w-full h-auto rounded-lg"
                       />

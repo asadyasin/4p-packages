@@ -61,7 +61,7 @@ const ContactForm = () => {
                 </div>
                 <div>
                   <h4 className="font-medium text-gray-800">Call Us</h4>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
+                  <p className="text-gray-600">+92 (321) 940-9842</p>
                   <p className="text-gray-600">Mon-Fri, 9am-5pm</p>
                 </div>
               </div>
@@ -83,15 +83,15 @@ const ContactForm = () => {
                 </div>
                 <div>
                   <h4 className="font-medium text-gray-800">Visit Us</h4>
-                  <p className="text-gray-600">123 Print Avenue,</p>
-                  <p className="text-gray-600">Design District, NY 10001</p>
+                  <p className="text-gray-600">Habib shoping centre,</p>
+                  <p className="text-gray-600">Multan Rd, Hanjarwal, Lahore, Pakistan</p>
                 </div>
               </div>
             </div>
             
             <div className="mt-8 p-4 bg-brand-lightBlue rounded-lg">
               <p className="text-brand-darkBlue font-medium">Need an urgent quote?</p>
-              <p className="text-gray-600">Call our express line at +1 (555) 987-6543</p>
+              <p className="text-gray-600">Call our express line at +2 (321) 940-9842</p>
             </div>
           </div>
           
